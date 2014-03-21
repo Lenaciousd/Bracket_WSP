@@ -6,13 +6,20 @@ h1 {
 color: blue; background-color: salmon; font-size: 40px; 
     text-align: center; margin: 0;
     padding: 5px;
-    background: linear-gradient(white, salmon);
+    background: linear-gradient(#eda9a1, salmon);
 }
 
 h2 { 
 color: blue; background-color: salmon; font-size: 25px; 
     text-align: center; margin: 0;
     padding: 5px;    
+}
+
+h3 {
+color: blue; background-color: salmon; font-size: 40px; 
+    text-align: center; margin: 0;
+    padding: 5px;
+    background: linear-gradient(#eda9a1, salmon);
 }
 
 body { 
@@ -50,4 +57,9 @@ iframe { margin-left: -10px;
 
 .content {
     width: 90%; margin: auto;
+}
+
+
+p  { font-family: sans-serif; font-size: 16px; margin: 0; padding: 10px; text-indent:40px;
+    
 }
